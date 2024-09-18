@@ -1,0 +1,57 @@
+# Dependency directories
+node_modules/
+jspm_packages/
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# Environment variables
+.env
+.env.test
+.env.*.local
+
+# Diagnostic reports (for crashes)
+report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
+
+# Runtime data
+pids/
+*.pid
+*.pid.lock
+
+# Directory for transpiled files (e.g. TypeScript or Babel)
+dist/
+build/
+
+# Coverage directory
+coverage/
+*.lcov
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE or editor-specific files
+.vscode/
+.idea/
+
+# Optional REPL history
+.node_repl_history
+
+
+
+# TypeScript
+*.tsbuildinfo
+
+# PM2 process manager logs
+pm2.log
+
+# TernJS
+.tern-port
